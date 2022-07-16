@@ -1,3 +1,4 @@
+package Basics;
 public class Loops {
     public static void main(String[] args) {
         int finalValue = 10, sum = 0;
